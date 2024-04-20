@@ -1,0 +1,3 @@
+Dataset has been downloaded directly from the internet using python in google collab.
+(I made the code download the dataset directly and made it use of the dataset for further processes).
+For that reason, this file doesn't contain any related data.
